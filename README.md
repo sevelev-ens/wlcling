@@ -1,1 +1,1 @@
-# This repository has been transferred to [IBC](https://wlc.oarc.science)'s institutional facilities.
+# This repository has been transferred to [IBC's institutional facilities](https://wlc.ibc.oarc.science).
