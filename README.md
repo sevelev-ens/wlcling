@@ -1,1 +1,1 @@
-# This repository was transferred to be deployed from another account: [https://gitlab.com/wlcling/](https://github.com/wlcling/wlcling.gitlab.io)
+# This repository has been transferred to [IBC](https://wlc.oarc.science)'s institutional facilities.
